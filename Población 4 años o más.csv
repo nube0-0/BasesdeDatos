@@ -1,0 +1,112 @@
+,codigo_departamento,departamento,codigo_municipio,municipio,poblacion de 4 años y mas
+0,13,Huehuetenango,1327,Aguacatan,44854
+1,13,Huehuetenango,1302,Chiantla,78412
+2,13,Huehuetenango,1319,Colotenango,30491
+3,13,Huehuetenango,1322,Concepcion Huista,16741
+4,13,Huehuetenango,1304,Cuilco,53573
+5,13,Huehuetenango,1301,Huehuetenango,108623
+6,13,Huehuetenango,1307,Jacaltenango,33850
+7,13,Huehuetenango,1312,La Democracia,49684
+8,13,Huehuetenango,1311,La Libertad,34129
+9,13,Huehuetenango,1303,Malacatancito,17386
+10,13,Huehuetenango,1305,Nenton,40265
+11,13,Huehuetenango,1333,Petatan,5580
+12,13,Huehuetenango,1324,San Antonio Huista,15174
+13,13,Huehuetenango,1329,San Gaspar Ixchil,7094
+14,13,Huehuetenango,1309,San Ildefonso Ixtahuacan,38889
+15,13,Huehuetenango,1316,San Juan Atitan,17496
+16,13,Huehuetenango,1323,San Juan Ixcoy,20222
+17,13,Huehuetenango,1318,San Mateo Ixtatan,38238
+18,13,Huehuetenango,1313,San Miguel Acatan,23597
+19,13,Huehuetenango,1306,San Pedro Necta,34446
+20,13,Huehuetenango,1308,San Pedro Soloma,42931
+21,13,Huehuetenango,1314,San Rafael La Independencia,12369
+22,13,Huehuetenango,1328,San Rafael Petzal,10128
+23,13,Huehuetenango,1325,San Sebastian Coatan,18550
+24,13,Huehuetenango,1320,San Sebastian Huehuetenango,29016
+25,13,Huehuetenango,1331,Santa Ana Huista,8563
+26,13,Huehuetenango,1310,Santa Barbara,29585
+27,13,Huehuetenango,1326,Santa Cruz Barillas,88499
+28,13,Huehuetenango,1317,Santa Eulalia,34197
+29,13,Huehuetenango,1330,Santiago Chimaltenango,9537
+30,13,Huehuetenango,1321,Tectitan,9654
+31,13,Huehuetenango,1315,Todos Santos Cuchumatan,26877
+32,13,Huehuetenango,1332,Union Cantinil,14306
+33,14,Quiche,1418,Canilla,10955
+34,14,Quiche,1405,Chajul,41618
+35,14,Quiche,1419,Chicaman,35083
+36,14,Quiche,1402,Chiche,26637
+37,14,Quiche,1403,Chinique,10337
+38,14,Quiche,1410,Cunen,36665
+39,14,Quiche,1412,Joyabaj,72706
+40,14,Quiche,1421,Pachalum,8170
+41,14,Quiche,1407,Patzite,5478
+42,14,Quiche,1420,Playa Grande Ixcan,87887
+43,14,Quiche,1416,Sacapulas,47302
+44,14,Quiche,1414,San Andres Sajcabaja,22710
+45,14,Quiche,1408,San Antonio Ilotenango,22412
+46,14,Quiche,1417,San Bartolome Jocotenango,12033
+47,14,Quiche,1411,San Juan Cotzal,28229
+48,14,Quiche,1415,San Miguel Uspantan,58464
+49,14,Quiche,1409,San Pedro Jocopilas,28528
+50,14,Quiche,1401,Santa Cruz del Quiche,71513
+51,14,Quiche,1413,Santa Maria Nebaj,66032
+52,14,Quiche,1406,Santo Tomas Chichicastenango,128449
+53,14,Quiche,1404,Zacualpa,29447
+54,12,San Marcos,1217,Ayutla,33555
+55,12,San Marcos,1216,Catarina,27439
+56,12,San Marcos,1204,Comitancillo,52409
+57,12,San Marcos,1206,Concepcion Tutuapa,59456
+58,12,San Marcos,1220,El Quetzal,21088
+59,12,San Marcos,1213,El Tumbador,40230
+60,12,San Marcos,1227,Esquipulas Palo Gordo,11640
+61,12,San Marcos,1223,Ixchiguan,19869
+62,12,San Marcos,1230,La Blanca,26135
+63,12,San Marcos,1221,La Reforma,16259
+64,12,San Marcos,1215,Malacatan,84155
+65,12,San Marcos,1212,Nuevo Progreso,27379
+66,12,San Marcos,1218,Ocos,9805
+67,12,San Marcos,1222,Pajapita,19791
+68,12,San Marcos,1228,Rio Blanco,4802
+69,12,San Marcos,1203,San Antonio Sacatepequez,17214
+70,12,San Marcos,1225,San Cristobal Cucho,15009
+71,12,San Marcos,1214,San Jose el Rodeo,16265
+72,12,San Marcos,1224,San Jose Ojetenam,17090
+73,12,San Marcos,1229,San Lorenzo,11748
+74,12,San Marcos,1201,San Marcos,43165
+75,12,San Marcos,1205,San Miguel Ixtahuacan,41449
+76,12,San Marcos,1219,San Pablo,44239
+77,12,San Marcos,1202,San Pedro Sacatepequez,72730
+78,12,San Marcos,1211,San Rafael Pie de la Cuesta,15709
+79,12,San Marcos,1208,Sibinal,14113
+80,12,San Marcos,1226,Sipacapa,17845
+81,12,San Marcos,1207,Tacana,68272
+82,12,San Marcos,1209,Tajumulco,44771
+83,12,San Marcos,1210,Tejutla,34318
+84,7,Solola,708,Concepcion,6002
+85,7,Solola,705,Nahuala,68798
+86,7,Solola,710,Panajachel,13957
+87,7,Solola,709,San Andres Semetabaj,12035
+88,7,Solola,712,San Antonio Palopo,13208
+89,7,Solola,702,San Jose Chacaya,3684
+90,7,Solola,717,San Juan La Laguna,11112
+91,7,Solola,713,San Lucas Toliman,27297
+92,7,Solola,716,San Marcos La Laguna,2437
+93,7,Solola,715,San Pablo La Laguna,6746
+94,7,Solola,718,San Pedro La Laguna,9980
+95,7,Solola,706,Santa Catarina Ixtahuacan,51785
+96,7,Solola,711,Santa Catarina Palopo,3622
+97,7,Solola,707,Santa Clara La Laguna,8628
+98,7,Solola,714,Santa Cruz La Laguna,5266
+99,7,Solola,704,Santa Lucia Utatlan,19597
+100,7,Solola,703,Santa Maria Visitacion,2188
+101,7,Solola,719,Santiago Atitlan,38899
+102,7,Solola,701,Solola,81236
+103,8,Totonicapan,805,Momostenango,94993
+104,8,Totonicapan,804,San Andres Xecul,24616
+105,8,Totonicapan,808,San Bartolo Aguas Calientes,9489
+106,8,Totonicapan,802,San Cristobal Totonicapan,33437
+107,8,Totonicapan,803,San Francisco El Alto,52885
+108,8,Totonicapan,807,Santa Lucia La Reforma,19680
+109,8,Totonicapan,806,Santa Maria Chiquimula,48959
+110,8,Totonicapan,801,Totonicapan,96374
